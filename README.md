@@ -1,1 +1,1 @@
-# TIL(Today I LEARN)
+# TIL(Today I Learn)
